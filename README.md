@@ -4,6 +4,7 @@ This repository contains 100+ Python coding practice exercises, organized by dif
 - 🟡 Intermediate – functions, OOP, error handling, modules
 - 🔴 Professional – data structures, algorithms, decorators, mini-projects  Perfect for self-study, interviews, and coding challenges.
 
+```
 python-practice-exercises/
 │
 ├── beginner/
@@ -33,6 +34,9 @@ python-practice-exercises/
 │
 ├── README.md
 └── requirements.txt  (if needed)
+
+
+```
 
   ---
 
